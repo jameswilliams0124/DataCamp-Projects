@@ -13,5 +13,4 @@ My notebooks to [DataCamp](https://www.datacamp.com/profile/jameswilliams0124) p
 | ------------------------------------------ | :-----------------------------------------------------------------------:|
 | Exploring 67 years of LEGO                 | In this project we will explore a database of every LEGO set ever built. |
 | Real-time Insights from Social Media Data	 | Learn to analyze Twitter data and do a deep dive into a hot trend.       |
-| TV, Halftime Shows, and the Big Game       | Load, clean, and explore Super Bowl data in the age of                   |
-|                                            | soaring ad costs and flashy halftime shows.                            |
+| TV, Halftime Shows, and the Big Game       | Load, clean, and explore Super Bowl data in the age of                                                                          soaring ad costs and flashy halftime shows.                            |
